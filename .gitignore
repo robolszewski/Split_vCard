@@ -1,0 +1,2 @@
+# vCard files — exclude personal contacts data
+*.vcf
